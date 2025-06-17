@@ -69,4 +69,4 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, please contact the developer at [your-email@example.com].
+For questions or support, please contact me at [akash02155@gmail.com].
